@@ -8,7 +8,7 @@ This was heavily inspired by the excellent example from Rasa [here](https://blog
 To set up speechbot:
 
 ```
-pip install -r requirments.txt
+pip install -r requirements.txt
 sh setup_stt.sh
 sh setup_tts.sh
 ```
